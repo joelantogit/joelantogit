@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joelanto
 - 👀 I’m interested in problem solving.
 - 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on java/javascript/MERN stack projects.
 - 📫 How to reach me - joelantochan@gmail.com
 
 <!---
